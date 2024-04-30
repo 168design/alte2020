@@ -1,0 +1,1 @@
+@charset "UTF-8";#wp-admin-bar-wp-logo{display:none}#wpadminbar #wp-admin-bar-site-name>.ab-item::before{content:" "!important;width:24px;height:24px;margin-right:2px!important;background:url(../img/admin/adminbar-logo.png) 50% 20% no-repeat!important;background-size:contain!important}.metabox-holder .postbox-container .empty-container{display:none}
